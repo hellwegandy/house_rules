@@ -6,7 +6,7 @@ We are using character templates from DF1, DF4, DF7, DF12, DFDB, DFDS, and more!
 ### Attributes and Secondary Characteristics:
 **Training Cost:** Free!
 
-Adventurers can buy whatever they can afford, within normal limits (pp. B14-17). If a wizard really wants ST 20, he can have it. A barbarian can raise ST more cheaply; a knight, more effectively. Neither risks being overshadowed by Pointy-thePrestidigitator’s steroids.
+Adventurers can buy whatever they can afford, within normal limits (**pp. B14-17**). If a wizard really wants ST 20, he can have it. A barbarian can raise ST more cheaply; a knight, more effectively. Neither risks being overshadowed by Pointy-thePrestidigitator’s steroids.
 
 ---
 
