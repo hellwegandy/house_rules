@@ -1,5 +1,5 @@
 # Dungeon Fantasy Advancement
-We are using character templates from DF1, DF4, DF7, DF12, DFDB, DFDS, and more! Each delver can buy only abilities found on his original template plus the templates associated with any lenses he has bought, with few exceptions.
+We are using character templates from DF1, DF4, DF7, DF12, D20, DFDB, DFDS, and more! Each delver can buy only abilities found on his original template plus the templates associated with any lenses he has bought, with few exceptions.
 
 ---
 
@@ -28,13 +28,14 @@ A player patient enough to save up 50 unspent points may add a lens to his PC in
 
 ---
 
-| Title                                   | Abbr.   |
-| :-------------------------------------- | ------: |
-| Dungeon Fantasy 1: Adventurers          |   DF1   |
-| Dungeon Fantasy 3: The Next Level       |   DF3   |
-| Dungeon Fantasy 4: Sages                |   DF4   |
-| Dungeon Fantasy 7: Clerics              |   DF7   |
-| Dungeon Fantasy 11: Power-Ups           |   DF11  |
-| Dungeon Fantasy 12: Ninja               |   DF12  |
+| Title                                   | Abbr.    |
+| :-------------------------------------- | -------: |
+| Dungeon Fantasy 1: Adventurers          |   DF1    |
+| Dungeon Fantasy 3: The Next Level       |   DF3    |
+| Dungeon Fantasy 4: Sages                |   DF4    |
+| Dungeon Fantasy 7: Clerics              |   DF7    |
+| Dungeon Fantasy 11: Power-Ups           |   DF11   |
+| Dungeon Fantasy 12: Ninja               |   DF12   |
+| Dungeon Fantasy 20: Slayers             |   DF20   |
 | Dungeon Fantasy Denizens: Barbarians    |   DFDB   |
 | Dungeon Fantasy Denizens: Swashbucklers |   DFDS   |
